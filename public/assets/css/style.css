@@ -1,0 +1,45 @@
+/* NAVBAR */
+
+.bg-light {
+    background-color: white !important;
+}
+
+.navbar {
+    border: green;
+    border-style: solid;
+    border-width: 1px;
+}
+
+.navbar-brand {
+    font-family: 'Chela One', cursive;
+    font-size: 19px !important;
+}
+
+.savedOnionsLink {
+    color: black !important;
+    margin-left: 20px;
+    margin-right: 25px;
+}
+
+.newOnionsLink {
+    color: black !important;
+    padding: 5px !important;
+    font-size: 1.2rem;
+}
+
+.visitOnionButton {
+    margin-left: 600px !important;
+    border-style: solid;
+    border-width: 1px;
+    border-color: green;
+}
+
+.visitOnion {
+    color: black !important;
+}
+
+/* Jumbotron */
+
+.jumbo-scrapes {
+    background-color: rgb(191, 209, 191) !important;
+}
